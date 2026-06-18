@@ -1,0 +1,22 @@
+{
+  "tasks": [],
+  "pomodoro_sessions": [],
+  "settings": [
+    {
+      "key": "focus_duration",
+      "value": "25"
+    },
+    {
+      "key": "short_break",
+      "value": "5"
+    },
+    {
+      "key": "long_break",
+      "value": "15"
+    },
+    {
+      "key": "max_sessions",
+      "value": "4"
+    }
+  ]
+}

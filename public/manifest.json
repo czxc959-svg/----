@@ -1,0 +1,21 @@
+{
+  "name": "心流专注助手",
+  "short_name": "心流专注",
+  "description": "AI驱动的智能任务管家与番茄钟",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
